@@ -103,5 +103,7 @@ Destroy the environment by running:
 ```bash
 terraform destroy
 ```
+
+Reference blog post is available at https://cloudspinx.com/set-up-kind-kubernetes-cluster-with-nginx-ingress-using-terraform/
 ## NOTE
 This repository is ideal for developers and DevOps engineers looking to create a flexible and manageable local Kubernetes environment with advanced ingress capabilities.
