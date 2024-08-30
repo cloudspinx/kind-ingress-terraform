@@ -1,4 +1,4 @@
-# kind-ingress-terraform
+# Set up Kind Kubernetes Clusters with Nginx Ingress using Terraform
 
 This repository contains all the necessary code and configurations to set up a local Kubernetes cluster using Kind (Kubernetes in Docker) with Nginx as the Ingress controller, all managed and provisioned through Terraform. The setup provides a scalable, production-like environment for development and testing purposes. By leveraging Terraform's infrastructure as code capabilities, this repository ensures consistent and repeatable cluster deployments.
 
