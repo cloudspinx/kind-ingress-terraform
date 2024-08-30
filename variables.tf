@@ -14,6 +14,6 @@ variable "nginx_ingress" {
     ingress_class_name = "nginx"
     chart_repository   = "https://kubernetes.github.io/ingress-nginx"
     chart_name         = "ingress-nginx"
-    chart_version      = "4.10.3"
+    chart_version      = "4.11.2" #https://github.com/kubernetes/ingress-nginx/releases
   }
 }
