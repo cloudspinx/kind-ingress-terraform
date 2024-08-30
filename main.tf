@@ -74,7 +74,7 @@ output "nginx_ingress_app_version" {
 
 # Local variables
 locals {
-  cluster_name       = "kind-cluster1"
+  cluster_name       = "cluster1"
   cluster_version    = "1.31.0"
   cluster_context    = "kind-${local.cluster_name}"
   ingress_class_name = "nginx"
